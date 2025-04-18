@@ -213,6 +213,5 @@ void liberarMemoria (struct nodo **primero) {
         free(actual);
         actual = temp;
     }
-    
-    int x;
+
 }
